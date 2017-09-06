@@ -1,0 +1,23 @@
+{
+  "name": "mc-unit-testing",
+  "version": "1.0.0",
+  "description": "Sandbox for learning Mocha with Chai unit testing",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sbchittenden/MC-Unit-Testing.git"
+  },
+  "author": "Sam Chittenden",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sbchittenden/MC-Unit-Testing/issues"
+  },
+  "homepage": "https://github.com/sbchittenden/MC-Unit-Testing#readme",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^3.5.0"
+  }
+}
